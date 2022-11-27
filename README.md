@@ -15,7 +15,7 @@
 </div>
 
 <details>
-  <summary>👩‍💻 Profile</summary>
+  <summary>👨🏻‍💻 Profile</summary>
 
 <br>
 
