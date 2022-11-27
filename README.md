@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello, I'm Mc Alvaro! 👋
+<div>
+  <img align="center" alt="Banner-McAlvaro" width="100%" src="https://github.com/McAlvaro/McAlvaro/blob/main/Portada.png"/>
+</div>
 
 <!--
 **McAlvaro/McAlvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
