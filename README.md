@@ -2,6 +2,12 @@
 <div>
   <img align="center" alt="Banner-McAlvaro" width="100%" src="https://github.com/McAlvaro/McAlvaro/blob/main/Portada.png"/>
 </div>
+<div align="right">
+<br>
+  
+![profile-views](https://komarev.com/ghpvc/?username=McAlvaro&color=brightgreen)
+
+</div>
 
 <!--
 **McAlvaro/McAlvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
