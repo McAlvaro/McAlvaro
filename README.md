@@ -20,7 +20,7 @@
 <br>
 
 <div>
-  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://github.com/McAlvaro/McAlvaro/blob/main/Programming.png"/>
+  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://github.com/McAlvaro/McAlvaro/blob/main/Programming-1.png"/>
 </div>
 
 ```php
