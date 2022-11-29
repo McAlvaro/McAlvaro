@@ -77,7 +77,7 @@ class McAlvaro extends Profile {
 </details>
 
 <details>
-  <summary> 🛠️ Herramientas & Platformas </summary>
+  <summary> 🛠️ Herramientas & Plataformas </summary>
 
 <br>
 
@@ -91,6 +91,7 @@ class McAlvaro extends Profile {
 ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
 ![Cloudways](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudways&color=2C39BD&logo=Cloudways&logoColor=FFFFFF&label=)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
+![WhatsApp](https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp%20Cloud%20Api&color=25D366&logo=WhatsApp&logoColor=white&label=)
   
 <br>
 </details>
