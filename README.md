@@ -61,7 +61,22 @@ class McAlvaro extends Profile {
 
 </details>
 
+<details>
+  <summary> 📚 Librerias & Framework </summary>
+
+<br>
+
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Alpine.js](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=)
+![Livewire](https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&color=4e57a6&logo=Livewire&logoColor=fb70a9&label=)
+
+
+</details>
+
 <!--
+![Composer](https://img.shields.io/static/v1?style=for-the-badge&message=Composer&color=885630&logo=Composer&logoColor=FFFFFF&label=)
 **McAlvaro/McAlvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
