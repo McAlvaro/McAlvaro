@@ -62,7 +62,7 @@ class McAlvaro extends Profile {
 </details>
 
 <details>
-  <summary> 📚 Librerias & Framework </summary>
+  <summary> 📚 Librerias & Frameworks </summary>
 
 <br>
 
