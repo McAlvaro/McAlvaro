@@ -123,7 +123,7 @@ class McAlvaro extends Profile {
 
 [**Back End Developer**](#) \
 [Emizor | Facturación Electrónica](https://www.linkedin.com/company/emizor) \
-Diciembre 2020 - Presente · 11 months\
+Diciembre 2020 - Presente · 1 año 11 meses\
 `Back End`, `Back-End`, `Dev Back-End`, `Developer`
  
 <br/>
