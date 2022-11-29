@@ -38,20 +38,12 @@ class McAlvaro extends Profile {
 
 <br>
 
-<!--
-- 👩‍💻 I'm a Front-end Developer.
-- 👩‍💼 Software Engineering Analyst at Itaú Unibanco.
-- 👩‍🎓 Bachelor of Information Systems.
-- 👩‍🔧 Computer Technician for Internet.
-- 👩‍🏫 Studying to become a Full Stack Developer (Frontend and Backend)
-- 👩‍🚀 Passionate about Technology, Development, Learning and Creativity.
-- 🤝 Available to collaborate on innovative and disruptive projects and ideas.
-- 🚀 I'm an Open Source adept.
-- ❤️ When I'm not coding, you can find me studying, reading, and spending time with my family.
-- 🤔 Ask me about: Frontend.
+- 🙍🏻‍♂️💻 Soy Desarrollador Backend en Emizor.
+- 🙍🏻‍♂️🎓 Ingeniero de Sistemas.
+- 🙍🏻‍♂️🚀 Apasionado de la Tecnología, el Desarrollo y el Aprendizaje.
+- 📚🚀 Estoy en un viaje de nunca parar de aprender.
 
 <br>
--->
 </details>
 
 <!--
