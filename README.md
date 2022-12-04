@@ -137,9 +137,9 @@ Diciembre 2020 - Presente · 1 año 11 meses\
 
 <img align="left" height="50px" width="50px" alt="Estacio" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/estacio.png"/>
 
-**Degree - Information Systems**\
-College Sociedade de Ensino Superior Estacio de Sá\
-July 2018 - June 2022 · 4 years
+**Backend Developer**\
+Platzi\
+Octubre 2022 - Presente · 3 meses
 
 <img align="left" height="50px" alt="UAJMS" src="https://github.com/McAlvaro/McAlvaro/blob/main/uajms.png"/>
 
