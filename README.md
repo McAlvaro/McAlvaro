@@ -130,6 +130,26 @@ Diciembre 2020 - Presente · 1 año 11 meses\
 <br>
 </details>
 
+<details>
+  <summary> 👨🏻‍🎓 Formación Académica </summary>
+
+<br>
+
+<img align="left" height="50px" width="50px" alt="Estacio" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/estacio.png"/>
+
+**Degree - Information Systems**\
+College Sociedade de Ensino Superior Estacio de Sá\
+July 2018 - June 2022 · 4 years
+
+<img align="left" height="50px" width="50px" alt="ETEC" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/etec.png"/>
+
+**Ingeniero de Sistemas**\
+Universidad Autónoma Juan Misael Saracho\
+2014 - 2018 · 5 years
+  
+<br>
+</details>
+
 <!--
 **McAlvaro/McAlvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
