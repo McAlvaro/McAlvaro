@@ -145,7 +145,7 @@ Octubre 2022 - Presente · 3 meses
 
 **Ingeniero de Sistemas**\
 Universidad Autónoma Juan Misael Saracho\
-2014 - 2018 · 5 years
+2014 - 2018 · 5 años
   
 <br>
 </details>
