@@ -122,7 +122,7 @@ class McAlvaro extends Profile {
 [<img align="left" height="50px" width="50px" alt="Itau" src="https://github.com/McAlvaro/McAlvaro/blob/main/LogoEmizorPerfil-1.png"/>](https://emizor.com)
 [**Back End Developer**](#) \
 [Emizor | Facturación Electrónica](https://www.linkedin.com/company/emizor) \
-Diciembre 2020 - Presente · 2 años 2 meses\
+Diciembre 2020 - Presente · 3 años 2 meses\
 `Back End`, `Back-End`, `Dev Back-End`, `Developer`
  
 <br/>
